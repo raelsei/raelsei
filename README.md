@@ -1,3 +1,1 @@
-### Hi there 👋
-🌱 I’m currently learning ...
 ![](https://steamuserimages-a.akamaihd.net/ugc/847092187909232389/B30FDC786E112747191946B2E3C783731F810FA0/)
