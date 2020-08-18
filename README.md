@@ -1,11 +1,10 @@
-
-
 <a href="https://github.com/korayguler">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=korayguler&show_icons=true&include_all_commits=true&theme=radical" alt="Koray's github stats" />
 </a>
 <a href="https://github.com/korayguler">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=korayguler&layout=compact&theme=radical" />
 </a>
+
 
 ### Languages and Tools :computer:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
