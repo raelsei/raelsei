@@ -3,7 +3,7 @@
 #### I'm a Front-end Developer working in İstanbul. 👨‍💻
 
 - 🏢 I'm currently working at **Home**
-- ⚙️ I like using: **JavaScript**, **sass**, **react**,**parcel**,**babel** **nodejs**, **npm**, **git**, **dev tools**
+- ⚙️ I like using: **JavaScript**, **sass**, **react**,**parcel**,**babel** **nodejs**, **npm**, **git**, **dev tools**, **Ubuntu**, **arch**
 - 🌱 Learning  **nodejs**
 - 💬 Ping me about: **frontend development**, **fullstack development**
 - 💎 Follow me: [Twitter](https://twitter.com/korayguler_)
