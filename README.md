@@ -1,17 +1,8 @@
 ### 💬 Ping me about: **front-end development**
+<img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/html5/html5-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/css3/css3-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/javascript/javascript-plain.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/react/react-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/nodejs/nodejs-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/express/express-original.svg" width="40px"/>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/sass/sass-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/babel/babel-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/npm/npm-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/gulp/gulp-plain.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/github/github-original.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/git/git-original.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/codepen/codepen-plain.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/photoshop/photoshop-plain.svg" width="30px"/> 
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=korayguler)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayguler&hide=TeX&layout=compact)
-
-
 
