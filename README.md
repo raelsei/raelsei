@@ -20,5 +20,14 @@
 </p>
 </details>
 
+<details>
+ <summary> :memo: <b>Last Posts</b>: </summary>
+<br>
+<p align = "left">
+<a target="_blank" href="https://korayguler.medium.com/gulp-sass-ve-browser-sync-ile-basit-geli%C5%9Ftirme-ortam%C4%B1-nas%C4%B1l-olu%C5%9Fturulur-99bb73fa097a">
+ Gulp, Sass ve Browser-Sync ile basit geliştirme ortamı nasıl oluşturulur?
+ </a>
+</p>
+</details>
 
 
