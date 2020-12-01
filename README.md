@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=korayguler)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=cultural-heritage)](https://github.com/korayguler/cultural-heritage)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=cultural-heritage)](https://github.com/korayguler/cultural-heritage) -->
 
 <details>
  <summary> :alien: <b>Tech Stack</b>: </summary>
