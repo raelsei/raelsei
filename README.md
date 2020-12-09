@@ -1,7 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=korayguler)
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=cultural-heritage)](https://github.com/korayguler/cultural-heritage) -->
-
 <details>
  <summary> :alien: <b>Tech Stack</b>: </summary>
 <br>
@@ -23,4 +21,10 @@
 </p>
 </details>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=live-exchange)](https://github.com/korayguler/live-exchange)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio)](https://github.com/korayguler/developer-portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass)](https://github.com/korayguler/gulp-sass)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist)](https://github.com/korayguler/vuex-todolist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api)](https://github.com/korayguler/nodejs-auth-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template)](https://github.com/korayguler/genesis-portfolio-template)
 
