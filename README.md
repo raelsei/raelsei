@@ -21,20 +21,20 @@
 </p>
 </details>
 
-<div>
- <span style="display: flex; justify-content: space-evenly;">
+<section style="width:100%">
+ <div style="display: flex; justify-content: space-evenly;">
  <a  href="https://github.com/korayguler/live-exchange"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin?username=korayguler&repo=live-exchange" /></a>
  <a   href="https://github.com/korayguler/developer-portfolio"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
- </span>
+ </div>
  
-  <span >
+  <div >
  <a  href="https://github.com/korayguler/gulp-sass"><img   style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>
  <a href="https://github.com/korayguler/vuex-todolist"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
- </span>
+ </div>
  
-  <span >
+  <div >
  <a   style="margin-right:16px;"  href="https://github.com/korayguler/nodejs-auth-api"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>
  <a    href="https://github.com/korayguler/genesis-portfolio-template"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template" /></a>
  </span>
- </div>
+ </section>
 
