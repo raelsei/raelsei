@@ -23,18 +23,18 @@
 
 <div>
  <span>
- <a style="margin-right:16px;" href="https://github.com/korayguler/live-exchange"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=live-exchange" /></a>
- <a href="https://github.com/korayguler/developer-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
+ <a  href="https://github.com/korayguler/live-exchange"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin?username=korayguler&repo=live-exchange" /></a>
+ <a   href="https://github.com/korayguler/developer-portfolio"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
  </span>
  
   <span >
- <a style="margin-right:16px;" href="https://github.com/korayguler/gulp-sass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>
- <a href="https://github.com/korayguler/vuex-todolist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
+ <a  href="https://github.com/korayguler/gulp-sass"><img   style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>
+ <a href="https://github.com/korayguler/vuex-todolist"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
  </span>
  
   <span >
- <a style="margin-right:16px;"  href="https://github.com/korayguler/nodejs-auth-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>
- <a href="https://github.com/korayguler/genesis-portfolio-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template" /></a>
+ <a   style="margin-right:16px;"  href="https://github.com/korayguler/nodejs-auth-api"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>
+ <a    href="https://github.com/korayguler/genesis-portfolio-template"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template" /></a>
  </span>
  </div>
 
