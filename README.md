@@ -27,12 +27,10 @@
  <a   href="https://github.com/korayguler/developer-portfolio"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
  </div>
  &nbsp;
- &nbsp;
   <div >
  <a  href="https://github.com/korayguler/gulp-sass"><img   style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/korayguler/vuex-todolist"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
  </div>
- &nbsp;
  &nbsp;
   <div >
  <a   style="margin-right:16px;"  href="https://github.com/korayguler/nodejs-auth-api"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>&nbsp;&nbsp;&nbsp;
