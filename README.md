@@ -20,18 +20,21 @@
  </a>
 </p>
 </details>
-<div style="display:flex; justify-content:space-between;">
- <div>
+
+<div>
+ <span style="display:flex; justify-content:space-between;">
  <a href="https://github.com/korayguler/live-exchange"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=live-exchange" /></a>
  <a href="https://github.com/korayguler/developer-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
- </div>
-  <div>
+ </span>
+ 
+  <span style="display:flex; justify-content:space-between;">
  <a href="https://github.com/korayguler/gulp-sass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>
  <a href="https://github.com/korayguler/vuex-todolist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
- </div>
-  <div>
+ </span>
+ 
+  <span style="display:flex; justify-content:space-between;">
  <a href="https://github.com/korayguler/nodejs-auth-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>
  <a href="https://github.com/korayguler/genesis-portfolio-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template" /></a>
- </div>
+ </span>
  </div>
 
