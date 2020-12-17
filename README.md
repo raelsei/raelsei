@@ -1,40 +1,18 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=korayguler)
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm a Front-end Developer and caffeine addicted :coffee:
 
-<details>
- <summary> :alien: <b>Tech Stack</b>: </summary>
-<br>
-<p align = "left">
-<img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/html5/html5-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/css3/css3-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/javascript/javascript-plain.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/react/react-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/nodejs/nodejs-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/express/express-original.svg" width="40px"/>
-<img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/sass/sass-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/babel/babel-original.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/npm/npm-original-wordmark.svg" width="40px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/gulp/gulp-plain.svg" width="40px"/><img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/github/github-original.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/git/git-original.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/codepen/codepen-plain.svg" width="30px"/>  <img src="https://raw.githubusercontent.com/korayguler/korayguler.github.io/master/icons/photoshop/photoshop-plain.svg" width="30px"/>
-</p>
-</details>
-
- 
- <details>
- <summary> :memo: <b>Last Posts</b>: </summary>
-<br>
-<p align = "left">
-<a target="_blank" href="https://korayguler.medium.com/gulp-sass-ve-browser-sync-ile-basit-geli%C5%9Ftirme-ortam%C4%B1-nas%C4%B1l-olu%C5%9Fturulur-99bb73fa097a">
- Gulp, Sass ve Browser-Sync ile basit geliştirme ortamı nasıl oluşturulur?
- </a>
-</p>
-</details>
-
- <!--
-<section style="width:100%">
- <div style="display: flex; justify-content: space-evenly;">
- <a  href="https://github.com/korayguler/live-exchange"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin?username=korayguler&repo=live-exchange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a   href="https://github.com/korayguler/developer-portfolio"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=developer-portfolio" /></a>
- </div>
- &nbsp;
-  <div >
- <a  href="https://github.com/korayguler/gulp-sass"><img   style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=gulp-sass" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/korayguler/vuex-todolist"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=vuex-todolist" /></a>
- </div>
- &nbsp;
-  <div >
- <a   style="margin-right:16px;"  href="https://github.com/korayguler/nodejs-auth-api"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=nodejs-auth-api" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a    href="https://github.com/korayguler/genesis-portfolio-template"><img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=korayguler&repo=genesis-portfolio-template" /></a>
- </span>
- </section>
+<p><a href="https://www.twitter.com/_korayguler"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/koray-guler"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@korayguler"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://medium.com/@korayguler"><img src="https://visitor-badge.laobi.icu/badge?page_id=korayguler" height=25/> </a></p>
+<p>
+<!--
+- :bowtie: I’m currently working on theINDUSTRY
+<a href="https://www.instagram.com/koative/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 -->
+
+- :dart: I’m currently learning Vue.js
+- :email: Ask me about anything related to JavaSciprt, Vue, React, Express 
+
+
+📕 **Latest Blog Posts**
+- [Gulp, Sass ve Browser-Sync ile basit geliştirme ortamı nasıl oluşturulur?](https://korayguler.medium.com/gulp-sass-ve-browser-sync-ile-basit-geli%C5%9Ftirme-ortam%C4%B1-nas%C4%B1l-olu%C5%9Fturulur-99bb73fa097a)
+
