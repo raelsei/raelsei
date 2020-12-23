@@ -10,8 +10,7 @@ I'm Front-end Developer and caffeine addicted :coffee:
 -->
 
 - :dart: I’m currently learning Vue.js
-- :email: Ask me about anything related to JavaSciprt, Vue, React, Express 
-
+- :email: Say hi! <b><a href="mailto:koray.guler@hotmail.com">koray.guler@hotmail.com</a></b>
 
 📕 **Latest Blog Posts**
 - [Gulp, Sass ve Browser-Sync ile basit geliştirme ortamı nasıl oluşturulur?](https://korayguler.medium.com/gulp-sass-ve-browser-sync-ile-basit-geli%C5%9Ftirme-ortam%C4%B1-nas%C4%B1l-olu%C5%9Fturulur-99bb73fa097a)
