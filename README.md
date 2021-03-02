@@ -9,7 +9,7 @@ I'm Front-end Developer and caffeine addicted :coffee:
 <a href="https://www.instagram.com/koative/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 -->
 
-- :dart: I’m currently learning Vue.js
+- :dart: I’m currently using Nuxt.js
 - :email: Say hi! <b><a href="mailto:koray.guler@hotmail.com">koray.guler@hotmail.com</a></b>
 
 📕 **Latest Blog Posts**
