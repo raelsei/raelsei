@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/koraycode/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> -->
 
 📍 I'm currently working at <b style="color:rebeccapurple">Trendyol</b> <br/>
-📬 Say hi! <b ><a  href="mailto:koray.guler@hotmail.com">koray.guler@hotmail.com</a></b>
+📬 Say hi! <b ><a  href="mailto:us.koray.guler@gmail.com">us.koray.guler@gmail.com</a></b>
 
 
 <details>
