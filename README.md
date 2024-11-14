@@ -7,6 +7,11 @@
 📍 I'm currently working at <b style="color:rebeccapurple">Home</b> <br/>
 📬 Say hi! <b ><a  href="mailto:hi@koray.dev">hi@koray.dev</a></b>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <details>
   <summary style="color:purple; font-weight:700">GitHub Stats ⌨️ </summary>
