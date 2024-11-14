@@ -1,4 +1,4 @@
-## Hey there! I’m Koray, turning code into creativity. Let’s build something cool! 💡👨‍💻 
+## Hi, I’m Koray – crafting web magic! 🪄
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
