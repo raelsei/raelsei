@@ -23,7 +23,7 @@
       "sans": "Inter",
       "mono": "JetBrains Mono"
     },
-    "radius": "0.5rem",
+    "radius": "0rem",
     "colors": {
       "light": {
         "background": "oklch(0.98 0.005 240)",
