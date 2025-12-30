@@ -1,12 +1,12 @@
 {
-  "brand": "IFIEX",
-  "title": "IFIEX - Kripto Borsası",
+  "brand": "Darkex",
+  "title": "Darkex - Kripto Borsası",
   "logo": {
-    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/square.svg",
-    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/wide.svg"
+    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-square-light.svg",
+    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-light.svg"
   },
   "meta": {
-    "title": "IFIEX - Güvenli Kripto Borsası",
+    "title": "Darkex - Güvenli Kripto Borsası",
     "description": "Türkiye'nin en güvenli kripto para borsası.",
     "keywords": ["kripto", "bitcoin", "ethereum", "borsa"],
     "ogImage": "https://cdn.ifiex.com/og-image.png"
