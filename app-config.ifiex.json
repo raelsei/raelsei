@@ -1,0 +1,98 @@
+{
+  "brand": "IFIEX",
+  "title": "IFIEX - Kripto Borsası",
+  "logo": {
+    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/square.svg",
+    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/wide.svg"
+  },
+  "meta": {
+    "title": "IFIEX - Güvenli Kripto Borsası",
+    "description": "Türkiye'nin en güvenli kripto para borsası.",
+    "keywords": ["kripto", "bitcoin", "ethereum", "borsa"],
+    "ogImage": "https://cdn.ifiex.com/og-image.png"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ifiex",
+    "telegram": "https://t.me/ifiex",
+    "discord": "https://discord.gg/ifiex",
+    "instagram": "https://instagram.com/ifiex",
+    "youtube": "https://youtube.com/@ifiex"
+  },
+  "theme": {
+    "fonts": {
+      "sans": "Plus Jakarta Sans",
+      "mono": "Geist Mono"
+    },
+    "radius": "0.5rem",
+    "colors": {
+      "light": {
+        "background": "oklch(1 0 0)",
+        "foreground": "oklch(0.1448 0 0)",
+        "card": "oklch(1 0 0)",
+        "cardForeground": "oklch(0.1448 0 0)",
+        "popover": "oklch(1 0 0)",
+        "popoverForeground": "oklch(0.1448 0 0)",
+        "primary": "oklch(0.5367 0.1316 259.77)",
+        "primaryForeground": "oklch(1 0 0)",
+        "secondary": "oklch(0.9551 0 0)",
+        "secondaryForeground": "oklch(0.1448 0 0)",
+        "muted": "oklch(0.9551 0 0)",
+        "mutedForeground": "oklch(0.4676 0 0)",
+        "accent": "oklch(0.5367 0.1316 259.77)",
+        "accentForeground": "oklch(1 0 0)",
+        "destructive": "oklch(0.6427 0.2153 28.8)",
+        "success": "oklch(0.70 0.14 170)",
+        "border": "oklch(0.9067 0 0)",
+        "input": "oklch(0.9551 0 0)",
+        "ring": "oklch(0.5367 0.1316 259.77)",
+        "chart1": "oklch(0.5367 0.1316 259.77)",
+        "chart2": "oklch(0.5346 0.1613 302.36)",
+        "chart3": "oklch(0.8185 0.1681 83.61)",
+        "chart4": "oklch(0.8238 0.1166 182.04)",
+        "chart5": "oklch(0.6427 0.2153 28.8)",
+        "sidebar": "oklch(1 0 0)",
+        "sidebarForeground": "oklch(0.1448 0 0)",
+        "sidebarPrimary": "oklch(0.5367 0.1316 259.77)",
+        "sidebarPrimaryForeground": "oklch(1 0 0)",
+        "sidebarAccent": "oklch(0.5367 0.1316 259.77)",
+        "sidebarAccentForeground": "oklch(1 0 0)",
+        "sidebarBorder": "oklch(0.9067 0 0)",
+        "sidebarRing": "oklch(0.5367 0.1316 259.77)"
+      },
+      "dark": {
+        "background": "oklch(0 0 0)",
+        "foreground": "oklch(1 0 0)",
+        "card": "oklch(0 0 0)",
+        "cardForeground": "oklch(1 0 0)",
+        "popover": "oklch(0 0 0)",
+        "popoverForeground": "oklch(1 0 0)",
+        "primary": "oklch(0.5367 0.1316 259.77)",
+        "primaryForeground": "oklch(1 0 0)",
+        "secondary": "oklch(0.2178 0 0)",
+        "secondaryForeground": "oklch(1 0 0)",
+        "muted": "oklch(0.2178 0 0)",
+        "mutedForeground": "oklch(0.7058 0 0)",
+        "accent": "oklch(0.5367 0.1316 259.77)",
+        "accentForeground": "oklch(1 0 0)",
+        "destructive": "oklch(0.6427 0.2153 28.8)",
+        "success": "oklch(0.70 0.14 170)",
+        "border": "oklch(0.3236 0.0338 279.65)",
+        "input": "oklch(0.2178 0 0)",
+        "ring": "oklch(0.5367 0.1316 259.77)",
+        "chart1": "oklch(0.5367 0.1316 259.77)",
+        "chart2": "oklch(0.5346 0.1613 302.36)",
+        "chart3": "oklch(0.8185 0.1681 83.61)",
+        "chart4": "oklch(0.8238 0.1166 182.04)",
+        "chart5": "oklch(0.6427 0.2153 28.8)",
+        "sidebar": "oklch(0 0 0)",
+        "sidebarForeground": "oklch(1 0 0)",
+        "sidebarPrimary": "oklch(0.5367 0.1316 259.77)",
+        "sidebarPrimaryForeground": "oklch(1 0 0)",
+        "sidebarAccent": "oklch(0.5367 0.1316 259.77)",
+        "sidebarAccentForeground": "oklch(1 0 0)",
+        "sidebarBorder": "oklch(0.3236 0.0338 279.65)",
+        "sidebarRing": "oklch(0.5367 0.1316 259.77)"
+      }
+    }
+  }
+}
