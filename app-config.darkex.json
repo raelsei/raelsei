@@ -1,0 +1,95 @@
+{
+  "brand": "Darkex",
+  "title": "Darkex - Crypto Exchange",
+  "logo": {
+    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-square-dark.svg",
+    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-dark.svg"
+  },
+  "meta": {
+    "title": "Darkex - Crypto Exchange",
+    "description": "Global crypto exchange platform.",
+    "keywords": ["crypto", "bitcoin", "ethereum", "exchange", "trading"],
+    "ogImage": "https://darkex.com/og-image.png"
+  },
+  "social": {
+    "twitter": "https://x.com/darkexglobal",
+    "telegram": "https://t.me/DarkexGlobal"
+  },
+  "theme": {
+    "fonts": {
+      "sans": "Sora",
+      "mono": "Geist Mono"
+    },
+    "radius": "0.5rem",
+    "colors": {
+      "light": {
+        "background": "oklch(1 0 0)",
+        "foreground": "oklch(0.145 0 0)",
+        "card": "oklch(0.9761 0 0)",
+        "cardForeground": "oklch(0.145 0 0)",
+        "popover": "oklch(1 0 0)",
+        "popoverForeground": "oklch(0.145 0 0)",
+        "primary": "oklch(0.6823 0.1306 173.35)",
+        "primaryForeground": "oklch(0.985 0 0)",
+        "secondary": "oklch(0.97 0 0)",
+        "secondaryForeground": "oklch(0.205 0 0)",
+        "muted": "oklch(0.97 0 0)",
+        "mutedForeground": "oklch(0.556 0 0)",
+        "accent": "oklch(0.97 0 0)",
+        "accentForeground": "oklch(0.205 0 0)",
+        "destructive": "oklch(0.577 0.245 27.325)",
+        "success": "oklch(0.7364 0.1508 166.78)",
+        "border": "oklch(0.922 0 0)",
+        "input": "oklch(0.922 0 0)",
+        "ring": "oklch(0.6823 0.1306 173.35)",
+        "chart1": "oklch(0.6823 0.1306 173.35)",
+        "chart2": "oklch(0.7364 0.1508 166.78)",
+        "chart3": "oklch(0.577 0.245 27.325)",
+        "chart4": "oklch(0.556 0 0)",
+        "chart5": "oklch(0.4957 0.0068 264.5)",
+        "sidebar": "oklch(0.985 0 0)",
+        "sidebarForeground": "oklch(0.145 0 0)",
+        "sidebarPrimary": "oklch(0.6823 0.1306 173.35)",
+        "sidebarPrimaryForeground": "oklch(0.985 0 0)",
+        "sidebarAccent": "oklch(0.97 0 0)",
+        "sidebarAccentForeground": "oklch(0.205 0 0)",
+        "sidebarBorder": "oklch(0.922 0 0)",
+        "sidebarRing": "oklch(0.6823 0.1306 173.35)"
+      },
+      "dark": {
+        "background": "oklch(0.1776 0 0)",
+        "foreground": "oklch(0.985 0 0)",
+        "card": "oklch(0.1344 0 0)",
+        "cardForeground": "oklch(0.985 0 0)",
+        "popover": "oklch(0.1344 0 0)",
+        "popoverForeground": "oklch(0.985 0 0)",
+        "primary": "oklch(0.6823 0.1306 173.35)",
+        "primaryForeground": "oklch(1 0 0)",
+        "secondary": "oklch(0.269 0 0)",
+        "secondaryForeground": "oklch(0.985 0 0)",
+        "muted": "oklch(0.269 0 0)",
+        "mutedForeground": "oklch(0.6534 0 0)",
+        "accent": "oklch(0.269 0 0)",
+        "accentForeground": "oklch(0.7364 0.1508 166.78)",
+        "destructive": "oklch(0.6358 0.2061 16.65)",
+        "success": "oklch(0.7364 0.1508 166.78)",
+        "border": "oklch(0.35 0 0)",
+        "input": "oklch(0.3 0 0)",
+        "ring": "oklch(0.6823 0.1306 173.35)",
+        "chart1": "oklch(0.6823 0.1306 173.35)",
+        "chart2": "oklch(0.7364 0.1508 166.78)",
+        "chart3": "oklch(0.6358 0.2061 16.65)",
+        "chart4": "oklch(0.6534 0 0)",
+        "chart5": "oklch(0.556 0 0)",
+        "sidebar": "oklch(0.1344 0 0)",
+        "sidebarForeground": "oklch(0.985 0 0)",
+        "sidebarPrimary": "oklch(0.6823 0.1306 173.35)",
+        "sidebarPrimaryForeground": "oklch(1 0 0)",
+        "sidebarAccent": "oklch(0.269 0 0)",
+        "sidebarAccentForeground": "oklch(0.985 0 0)",
+        "sidebarBorder": "oklch(0.35 0 0)",
+        "sidebarRing": "oklch(0.6823 0.1306 173.35)"
+      }
+    }
+  }
+}
