@@ -19,9 +19,15 @@
     "youtube": "https://youtube.com/@ifiex"
   },
   "theme": {
-    "fonts": {
-      "sans": "Inter",
-      "mono": "Inter"
+   "fonts": {
+      "sans": {
+        "family": "Geist",
+        "url": "https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"
+      },
+      "mono": {
+        "family": "Geist Mono",
+        "url": "https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap"
+      }
     },
     "radius": "0.5rem",
     "colors": {
