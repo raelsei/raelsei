@@ -20,8 +20,8 @@
   },
   "theme": {
     "fonts": {
-      "sans": "Geist",
-      "mono": "Geist Mono"
+      "sans": "Inter",
+      "mono": "Inter"
     },
     "radius": "0.5rem",
     "colors": {
