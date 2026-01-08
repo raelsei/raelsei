@@ -1,25 +1,11 @@
 {
   "brand": "IFIEX",
-  "title": "IFIEX - Kripto Borsası",
   "logo": {
     "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/square.svg",
     "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/wide.svg"
   },
-  "meta": {
-    "title": "IFIEX - Güvenli Kripto Borsası",
-    "description": "Türkiye'nin en güvenli kripto para borsası.",
-    "keywords": ["kripto", "bitcoin", "ethereum", "borsa"],
-    "ogImage": "https://cdn.ifiex.com/og-image.png"
-  },
-  "social": {
-    "twitter": "https://twitter.com/ifiex",
-    "telegram": "https://t.me/ifiex",
-    "discord": "https://discord.gg/ifiex",
-    "instagram": "https://instagram.com/ifiex",
-    "youtube": "https://youtube.com/@ifiex"
-  },
   "theme": {
-   "fonts": {
+    "fonts": {
       "sans": {
         "family": "Yuji Boku",
         "url": "https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap"
