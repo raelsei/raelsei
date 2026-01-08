@@ -21,11 +21,11 @@
   "theme": {
    "fonts": {
       "sans": {
-        "family": "Geist",
+        "family": "Yuji Boku",
         "url": "https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap"
       },
       "mono": {
-        "family": "Geist Mono",
+        "family": "Yuji Boku",
         "url": "https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap"
       }
     },
