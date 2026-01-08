@@ -7,12 +7,12 @@
   "theme": {
     "fonts": {
       "sans": {
-        "family": "Fontdiner Swanky",
-        "url": "https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap"
+        "family": "Noto Sans",
+        "url": "https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
       },
       "mono": {
-        "family": "Fontdiner Swanky",
-        "url": "https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap"
+        "family": "Noto Sans",
+        "url": "https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
       }
     },
     "radius": "0.5rem",
