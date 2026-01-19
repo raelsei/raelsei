@@ -1,8 +1,8 @@
 {
   "brand": "IFIEX",
   "logo": {
-    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/square.svg",
-    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/wide.svg"
+    "square": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-square-dark.svg",
+    "wide": "https://poseidon.sfo3.cdn.digitaloceanspaces.com/webcore/darkex-dark.svg"
   },
   "theme": {
     "fonts": {
