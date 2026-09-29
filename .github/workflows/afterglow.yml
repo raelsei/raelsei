@@ -1,0 +1,62 @@
+name: afterglow
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: afterglow
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: raelsei/afterglow@v1
+        with:
+          prompt: koray@istanbul ~ %
+          whoami: |
+            Koray Güler
+            product engineer in İstanbul,
+            founder of koative.
+
+            I build small software,
+            and keep it quiet.
+          feed: https://koray.dev/rss.xml
+          posts_url: https://koray.dev/posts/
+          feed_note: |
+            the bugs that never raise an exception:
+            green build, no alert, wrong answer.
+          links: |
+            web https://koray.dev
+            x https://x.com/raelsei
+            linkedin https://linkedin.com/in/raelsei
+            telegram https://t.me/raelsei
+            mail mailto:id@koray.dev
+
+      # Images first, so the README never points at files that are not there yet.
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./afterglow
+          publish_branch: output
+          force_orphan: true
+          commit_message: "afterglow: redraw"
+
+      - name: Commit the README when the post list changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "afterglow: refresh the post list"
+          git push

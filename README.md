@@ -1,8 +1,26 @@
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/refs/heads/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/refs/heads/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-  
-  
-    
+<!-- afterglow:start -->
+<p>
+<a href="https://github.com/raelsei/afterglow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/year-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/year-light.svg" width="440" alt="A spinning ASCII torus drawn from raelsei&#39;s GitHub contributions over the last year, busier days raised and brighter" align="top"></picture></a>
+<a href="https://koray.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/whoami-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/whoami-light.svg" width="365" alt="Koray Güler — product engineer in İstanbul, founder of koative. I build small software, and keep it quiet. Contribution figures for the last year." align="top"></picture></a>
+</p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/posts-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/posts-light.svg" width="538" alt="the bugs that never raise an exception: green build, no alert, wrong answer. ls -t posts | head -5" align="top"></picture><br>
+<a href="https://koray.dev/posts/llm-cannot-hallucinate-what-you-never-sent/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/post-95fb621a-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/post-95fb621a-light.svg" width="538" alt="Your LLM can&#39;t hallucinate a number it was never given" align="top"></picture></a><br>
+<a href="https://koray.dev/posts/the-label-was-not-the-identity/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/post-1e599fae-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/post-1e599fae-light.svg" width="538" alt="Three bugs, one root cause: the label was not the identity" align="top"></picture></a><br>
+<a href="https://koray.dev/posts/cache-the-prompt-not-the-inputs/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/post-11fd92ce-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/post-11fd92ce-light.svg" width="538" alt="Cache the prompt, not the inputs" align="top"></picture></a><br>
+<a href="https://koray.dev/posts/the-endpoint-that-succeeded-at-doing-nothing/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/post-eae80838-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/post-eae80838-light.svg" width="538" alt="The endpoint that succeeded at doing nothing" align="top"></picture></a><br>
+<a href="https://koray.dev/posts/a-signing-key-in-the-browser/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/post-6bc873c2-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/post-6bc873c2-light.svg" width="538" alt="I put a signing key in the browser on purpose" align="top"></picture></a><br>
+<a href="https://koray.dev/posts/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/posts-more-97646952-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/posts-more-97646952-light.svg" width="538" alt="All posts at koray.dev/posts" align="top"></picture></a>
+</p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/links-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/links-light.svg" width="538" alt="cat links" align="top"></picture><br>
+<a href="https://koray.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/link-39df64e2-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/link-39df64e2-light.svg" width="538" alt="web: koray.dev" align="top"></picture></a><br>
+<a href="https://x.com/raelsei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/link-cc0dcec7-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/link-cc0dcec7-light.svg" width="538" alt="x: x.com/raelsei" align="top"></picture></a><br>
+<a href="https://linkedin.com/in/raelsei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/link-20f43e40-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/link-20f43e40-light.svg" width="538" alt="linkedin: linkedin.com/in/raelsei" align="top"></picture></a><br>
+<a href="https://t.me/raelsei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/link-72f94410-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/link-72f94410-light.svg" width="538" alt="telegram: t.me/raelsei" align="top"></picture></a><br>
+<a href="mailto:id@koray.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/link-eba1aa5e-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/link-eba1aa5e-light.svg" width="538" alt="mail: id@koray.dev" align="top"></picture></a>
+</p>
+<p>
+<a href="https://github.com/raelsei/afterglow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raelsei/raelsei/output/prompt-dark.svg"><img src="https://raw.githubusercontent.com/raelsei/raelsei/output/prompt-light.svg" width="538" alt="Drawn by afterglow" align="top"></picture></a>
+</p>
+<!-- afterglow:end -->
