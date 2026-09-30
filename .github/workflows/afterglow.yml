@@ -47,7 +47,7 @@ jobs:
             x https://x.com/raelsei
             linkedin https://linkedin.com/in/raelsei
             telegram https://t.me/raelsei
-            mail mailto:id@koray.dev
+            mail mailto:hello@koray.dev
 
       # Images first, so the README never points at files that are not there yet.
       - uses: peaceiris/actions-gh-pages@v4
