@@ -28,7 +28,6 @@ jobs:
           layout: |
             year      | whoami
             activity  | posts
-            langs     | top
             bar
           session: koray@istanbul
           whoami: |
