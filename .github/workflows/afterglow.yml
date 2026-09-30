@@ -21,9 +21,15 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: raelsei/afterglow@v2
+      - uses: raelsei/afterglow@v3
         with:
           theme: phosphor
+          density: compact
+          layout: |
+            year      | whoami
+            activity  | posts
+            langs     | top
+            bar
           session: koray@istanbul
           whoami: |
             Koray Güler
