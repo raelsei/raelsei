@@ -26,8 +26,8 @@ jobs:
           theme: phosphor
           density: compact
           layout: |
-            year      | whoami
-            activity  | posts
+            year | whoami
+                 | posts
             bar
           session: koray@istanbul
           whoami: |
