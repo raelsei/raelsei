@@ -21,9 +21,10 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: raelsei/afterglow@v1
+      - uses: raelsei/afterglow@v2
         with:
-          prompt: koray@istanbul ~ %
+          theme: phosphor
+          session: koray@istanbul
           whoami: |
             Koray Güler
             product engineer in İstanbul,
@@ -52,11 +53,12 @@ jobs:
           force_orphan: true
           commit_message: "afterglow: redraw"
 
-      - name: Commit the README when the post list changed
+      - name: Commit the README when it changed
         run: |
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "afterglow: refresh the post list"
+          git commit -m "afterglow: redraw"
+          git pull --rebase
           git push
