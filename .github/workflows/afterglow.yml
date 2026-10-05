@@ -24,6 +24,7 @@ jobs:
       - uses: raelsei/afterglow@v3
         with:
           theme: phosphor
+          shape: knot
           density: compact
           layout: |
             year | whoami
