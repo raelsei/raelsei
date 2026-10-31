@@ -28,21 +28,15 @@ jobs:
           density: compact
           layout: |
             year | whoami
-                 | posts
+                 | pinned
             bar
           session: koray@istanbul
           whoami: |
             Koray Güler
-            product engineer in İstanbul,
-            founder of koative.
+            product engineer in İstanbul.
 
-            I build small software,
-            and keep it quiet.
-          feed: https://koray.dev/rss.xml
-          posts_url: https://koray.dev/posts/
-          feed_note: |
-            the bugs that never raise an exception:
-            green build, no alert, wrong answer.
+            I ship open-source software,
+            one a week.
           links: |
             web https://koray.dev
             x https://x.com/raelsei
