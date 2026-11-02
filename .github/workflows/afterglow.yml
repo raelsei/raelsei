@@ -24,7 +24,8 @@ jobs:
       - uses: raelsei/afterglow@v3
         with:
           theme: phosphor
-          shape: knot
+          shape: torus
+          timezone: Europe/Istanbul
           density: compact
           layout: |
             year | whoami
